@@ -1,1 +1,6 @@
 # Desarrollo
+setwd("/Users/jumar/OneDrive/Documentos/Javeriana/5 Quinto semestre/Analitica de datos")
+getwd()
+# Cargar las librerías necesarias
+library(dplyr)
+library(ggplot2)

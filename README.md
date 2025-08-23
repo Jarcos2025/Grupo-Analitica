@@ -1,1 +1,1 @@
-# Caso-1-Anal-tica
+# Caso-1-Analitica

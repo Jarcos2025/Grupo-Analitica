@@ -10,7 +10,7 @@ Este caso ofrece el desarrollo y el análisis del caso **Web Analytics at Qualit
 - `data/`: Bases de datos.
 - `figures_tables/`: gráficas tablas o visualizaciones.
 - `report/`: Bases de datos utilizadas en clase.
-- `R_Script/` : Codigo del analisis cuantitativo en lenguaje de programacion R.
+- `r_script/` : Codigo del analisis cuantitativo en lenguaje de programacion R.
 - `Others/`: Talleres y tareas.
 
 ## 📅 Herramientas y Lenguajes

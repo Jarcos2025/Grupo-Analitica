@@ -18,7 +18,7 @@ Este caso ofrece el desarrollo y el análisis del caso **Web Analytics at Qualit
 
 ## 👨‍🏫 Colaboradores
 **Felipe Angel,** 
-**Santiago Velásquez & ** 
+**Santiago Velásquez &** 
 **Julián Arcos**
 Estudiantes de Finanzas | Universidad Javeriana  
 

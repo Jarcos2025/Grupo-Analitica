@@ -7,10 +7,11 @@ Este caso ofrece el desarrollo y el análisis del caso **Web Analytics at Qualit
 
 ## 🗂 Estructura del Repositorio
 
-- `data/`: Bases de datos
-- `figures_tables/`: gráficas tablas o visualizaciones
-- `report/`: Bases de datos utilizadas en clase
-- `Others/`: Talleres y tareas
+- `data/`: Bases de datos.
+- `figures_tables/`: gráficas tablas o visualizaciones.
+- `report/`: Bases de datos utilizadas en clase.
+- `R_Script/` : Codigo del analisis cuantitativo en lenguaje de programacion R.
+- `Others/`: Talleres y tareas.
 
 ## 📅 Herramientas y Lenguajes
 

@@ -3,7 +3,7 @@
 Repositorio del **Caso 1 Business Analytics** correspondiente al periodo 2025-3, impartido por **Juan Nicolás Velásquez Rey** (M.A. en Economía, Universidad de los Andes).
 
 ## 📚 Descripción
-Este caso ofrece el desarrollo y el análisis del caso **Web Analytics at Quality Alloys, Inc. Por Rob Weitz & David Rosenthal** propuesto por el profesor. Se trabajaró con herramientas de R.
+Este caso ofrece el desarrollo y el análisis del caso **Web Analytics at Quality Alloys, Inc. Por Rob Weitz & David Rosenthal** propuesto por el profesor. Se trabajó con herramientas de R.
 
 ## 🗂 Estructura del Repositorio
 
